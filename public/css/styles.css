@@ -1,0 +1,36 @@
+html,
+body {
+  height: 100%;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 1rem;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+.form-signin .form-control {
+  border-radius: 0px !important; /* Use !important if necessary */
+}
+.form-signin .form-control.top {
+  margin-top: -1px;
+  border-top-left-radius: 5px !important;
+  border-top-right-radius: 5px !important;
+}
+.form-signin .form-control.middle {
+  border-radius: 0 !important;
+}
+.form-signin .form-control.bottom {
+  margin-bottom: 10px;
+  border-bottom-left-radius: 5px !important;
+  border-bottom-right-radius: 5px !important;
+}
+
+.form-control::placeholder {
+  color: #6c757d !important; /* Set a visible color */
+  opacity: 1 !important;    /* Ensure it is fully visible */
+}
+
+
