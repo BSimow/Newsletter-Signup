@@ -71,7 +71,8 @@ newsletter-signup/
 ## Screenshot
 
 ### Signup Page
-![image](https://github.com/user-attachments/assets/fff49297-2b9b-4197-ba14-63405743e860)
+![image](https://github.com/user-attachments/assets/ace4db71-e2a1-4d35-95bd-7f8284b91e9e)
+
 
 
 ## Dependencies
