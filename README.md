@@ -68,6 +68,12 @@ newsletter-signup/
 └── README.md
 ```
 
+## Screenshot
+
+### Signup Page
+![image](https://github.com/user-attachments/assets/fff49297-2b9b-4197-ba14-63405743e860)
+
+
 ## Dependencies
 
 - **express**: Fast, unopinionated, minimalist web framework for Node.js.
